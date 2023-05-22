@@ -14,6 +14,7 @@ public class QueueUsingTwoStacks {
     Queue q1 = new Queue();
     for (int i = 0; i < queries; i++) {
       query = input.nextLine();
+      
       if (query.equals("2")) {
         q1.dequeue();
       } else if (query.equals("3")) {
