@@ -1,4 +1,4 @@
-package Intermediate;
+package Advanced;
 
 class Node {
   int data;

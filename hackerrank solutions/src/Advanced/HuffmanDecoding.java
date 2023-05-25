@@ -1,4 +1,4 @@
-package Intermediate;
+package Advanced;
 
 
 public class HuffmanDecoding {
